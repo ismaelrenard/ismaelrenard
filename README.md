@@ -26,7 +26,7 @@ I'm learning at the moment **NextJS**
 
 [![Linkedin Badge](https://img.shields.io/badge/-ismaelrenard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelrenard)](https://www.linkedin.com/in/ismaelrenard)
 [![Instagram Badge](https://img.shields.io/badge/-ismaelrenard-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ismaelrenard/?hl=pt-br)](https://instagram.com/ismaelrenard)
-[![Gmail Badge](https://img.shields.io/badge/ismaelrenard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelrenard)](mailto:ismaelrenard@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ismaelrenard@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismaelrenard@gmail.com)](mailto:ismaelrenard@gmail.com)
 
 ## 🚀💻 Technologies & Tools
 
