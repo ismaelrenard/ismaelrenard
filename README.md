@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 <p align = "justify">Frontend and Backend Developer, super JS and SPA fan, @reactjs expert. In love with Reactive Programming.</p>
 
-I currently work at [Árvore de Livros](https://www.arvore.com.br)
-
 I'm learning at the moment **NextJS**
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-ismaelrenard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelrenard)](https://www.linkedin.com/in/ismaelrenard)
 [![Instagram Badge](https://img.shields.io/badge/-ismaelrenard-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ismaelrenard/?hl=pt-br)](https://instagram.com/ismaelrenard)
